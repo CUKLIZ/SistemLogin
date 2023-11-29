@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Dokumen\C#\SistemLogin\SistemLogin\bin\Debug\net6.0\SistemLogin.exe
+C:\Users\user\OneDrive\Dokumen\C#\SistemLogin\SistemLogin\bin\Debug\net6.0\SistemLogin.deps.json
+C:\Users\user\OneDrive\Dokumen\C#\SistemLogin\SistemLogin\bin\Debug\net6.0\SistemLogin.runtimeconfig.json
+C:\Users\user\OneDrive\Dokumen\C#\SistemLogin\SistemLogin\bin\Debug\net6.0\SistemLogin.dll
+C:\Users\user\OneDrive\Dokumen\C#\SistemLogin\SistemLogin\bin\Debug\net6.0\SistemLogin.pdb
+C:\Users\user\OneDrive\Dokumen\C#\SistemLogin\SistemLogin\obj\Debug\net6.0\SistemLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Dokumen\C#\SistemLogin\SistemLogin\obj\Debug\net6.0\SistemLogin.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Dokumen\C#\SistemLogin\SistemLogin\obj\Debug\net6.0\SistemLogin.AssemblyInfo.cs
+C:\Users\user\OneDrive\Dokumen\C#\SistemLogin\SistemLogin\obj\Debug\net6.0\SistemLogin.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Dokumen\C#\SistemLogin\SistemLogin\obj\Debug\net6.0\SistemLogin.dll
+C:\Users\user\OneDrive\Dokumen\C#\SistemLogin\SistemLogin\obj\Debug\net6.0\refint\SistemLogin.dll
+C:\Users\user\OneDrive\Dokumen\C#\SistemLogin\SistemLogin\obj\Debug\net6.0\SistemLogin.pdb
+C:\Users\user\OneDrive\Dokumen\C#\SistemLogin\SistemLogin\obj\Debug\net6.0\SistemLogin.genruntimeconfig.cache
+C:\Users\user\OneDrive\Dokumen\C#\SistemLogin\SistemLogin\obj\Debug\net6.0\ref\SistemLogin.dll

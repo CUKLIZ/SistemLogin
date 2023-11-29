@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TsWJLw77LPyUDKNi7eJT09vKZBFLXgRKzMxdyZ1xw/h/nNpRDm232NRBXUOElFqNDf+Hhwwh10SS2SbqDnTtuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Dokumen\\C#\\SistemLogin\\SistemLogin\\SistemLogin.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: An error occurred while sending the request."
+    }
+  ]
+}
